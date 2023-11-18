@@ -1,0 +1,3 @@
+/data/test/learn-cmake/lec2/someLibDemo/cpp/build/CMakeFiles/rebuild_cache.dir
+/data/test/learn-cmake/lec2/someLibDemo/cpp/build/CMakeFiles/xiaohongmath.dir
+/data/test/learn-cmake/lec2/someLibDemo/cpp/build/CMakeFiles/edit_cache.dir

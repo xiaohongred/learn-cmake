@@ -1,0 +1,2 @@
+/usr/bin/ar qc libxiaohongmath.a CMakeFiles/xiaohongmath.dir/adder.cpp.o
+/usr/bin/ranlib libxiaohongmath.a

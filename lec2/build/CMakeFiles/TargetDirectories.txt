@@ -1,0 +1,7 @@
+/data/test/learn-cmake/lec2/build/CMakeFiles/install/strip.dir
+/data/test/learn-cmake/lec2/build/CMakeFiles/edit_cache.dir
+/data/test/learn-cmake/lec2/build/CMakeFiles/rebuild_cache.dir
+/data/test/learn-cmake/lec2/build/CMakeFiles/list_install_components.dir
+/data/test/learn-cmake/lec2/build/CMakeFiles/trim.dir
+/data/test/learn-cmake/lec2/build/CMakeFiles/install/local.dir
+/data/test/learn-cmake/lec2/build/CMakeFiles/install.dir

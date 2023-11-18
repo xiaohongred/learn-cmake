@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "atomic": "cpp",
+    "*.tcc": "cpp",
+    "compare": "cpp",
+    "optional": "cpp",
+    "numeric": "cpp",
+    "sstream": "cpp",
+    "cmath": "cpp",
+    "ostream": "cpp"
+  }
+}

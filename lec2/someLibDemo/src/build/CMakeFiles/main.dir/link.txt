@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main   -L/data/test/learn-cmake/lec2/someLibDemo/src/../myadderlib/build  -Wl,-rpath,/data/test/learn-cmake/lec2/someLibDemo/src/../myadderlib/build -lxiaohongmath 

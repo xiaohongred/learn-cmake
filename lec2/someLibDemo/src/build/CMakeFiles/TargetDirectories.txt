@@ -1,0 +1,3 @@
+/data/test/learn-cmake/lec2/someLibDemo/src/build/CMakeFiles/rebuild_cache.dir
+/data/test/learn-cmake/lec2/someLibDemo/src/build/CMakeFiles/main.dir
+/data/test/learn-cmake/lec2/someLibDemo/src/build/CMakeFiles/edit_cache.dir
